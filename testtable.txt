@@ -1,0 +1,17 @@
+
+I1V1:  db #$00,#$0F,#$00,#$00,#$10,#$00,#$00,#$21,#$00,#$00,#$32,#$00,#$00,#$43,#$00,#$00,#$54,#$00,#$00,#$65,#$00,#$00,#$76,#$00,#$00,#$87,#$00,#$00,#$98,#$00,#$00,#$A9,#$00,#$00,#$BA,#$00,#$00,#$CB,#$00,#$00,#$DC,#$00,#$00,#$ED,#$00,#$00,#$FE,#$00
+
+
+Do not forget to make the msb of the last byte high
+
+
+Total number of adc triggers = 128
+
+
+
+Total number of raw voltage measurements = 2048
+
+
+
+Total number of current injection pairs = 128
+
